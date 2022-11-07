@@ -1,0 +1,92 @@
+[
+    {
+        "index": 0,
+        "inStoke": true,
+        "price": "$658.40",
+        "picture": "https://wafilife-media.wafilife.com/uploads/2022/11/3-192x254.jpg",
+        "authorName": "Trudy Herring",
+        "publisher": "BIOTICA",
+        "bookDetails": "Nulla consectetur deserunt consequat aliquip culpa pariatur ea proident sint esse sunt. Eu aute non labore et incididunt esse. Amet exercitation laboris Lorem anim ipsum voluptate cillum irure. Dolor culpa proident non et sit adipisicing duis occaecat amet ea.\r\n",
+        "publishedDate": "2020-11-03T05:37:26 -06:00"
+    },
+    {
+        "index": 1,
+        "inStoke": true,
+        "price": "$198.55",
+        "picture": "https://wafilife-media.wafilife.com/uploads/2022/10/%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-f-Output-192x254.jpg",
+        "authorName": "Lois Scott",
+        "publisher": "LETPRO",
+        "bookDetails": "Proident dolore aliqua enim reprehenderit nulla ea excepteur nulla. Occaecat laboris mollit pariatur deserunt id. Officia exercitation ad duis irure officia ipsum minim voluptate qui irure magna adipisicing. Eu officia eiusmod ad velit duis consequat ea.\r\n",
+        "publishedDate": "2021-12-21T07:48:02 -06:00"
+    },
+    {
+        "index": 2,
+        "inStoke": false,
+        "price": "$567.71",
+        "picture": "https://wafilife-media.wafilife.com/uploads/2022/10/gontobbo-2-01-192x254.jpg",
+        "authorName": "Juliana Vasquez",
+        "publisher": "MAXEMIA",
+        "bookDetails": "Id eiusmod sit elit officia esse id eiusmod consectetur aute eiusmod exercitation esse deserunt. Labore velit minim dolor non dolor magna labore anim ipsum. Exercitation tempor aute reprehenderit velit. Magna occaecat adipisicing pariatur qui deserunt. Ipsum quis culpa veniam aliqua.\r\n",
+        "publishedDate": "2016-12-07T12:24:15 -06:00"
+    },
+    {
+        "index": 3,
+        "inStoke": true,
+        "price": "$672.76",
+        "picture": "https://wafilife-media.wafilife.com/uploads/2022/10/%E0%A6%B6%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%9C%E0%A6%BF-192x254.jpg",
+        "authorName": "Cooper Dickson",
+        "publisher": "BEADZZA",
+        "bookDetails": "Voluptate nulla reprehenderit Lorem irure consectetur quis in exercitation elit ullamco non. Dolor non quis ad tempor mollit consectetur exercitation esse mollit ipsum id ipsum id proident. Lorem laboris velit nisi fugiat magna in Lorem elit ad. Magna sint tempor ullamco ea eiusmod exercitation sunt tempor.\r\n",
+        "publishedDate": "2020-09-30T04:57:50 -06:00"
+    },
+    {
+        "index": 4,
+        "inStoke": true,
+        "price": "$193.18",
+        "picture": "https://wafilife-media.wafilife.com/uploads/2022/10/IMG_5767-1-192x254.jpg",
+        "authorName": "Walker Lambert",
+        "publisher": "BRISTO",
+        "bookDetails": "Excepteur nisi est mollit proident officia in pariatur. Proident proident amet nisi voluptate. Eiusmod ullamco nisi esse ea reprehenderit ipsum exercitation fugiat. Minim quis Lorem ut laborum tempor ea magna nisi duis dolore. Consequat excepteur irure incididunt officia.\r\n",
+        "publishedDate": "2014-11-14T08:09:48 -06:00"
+    },
+    {
+        "index": 5,
+        "inStoke": true,
+        "price": "$827.37",
+        "picture": "https://wafilife-media.wafilife.com/uploads/2022/10/%E0%A7%A7%E0%A7%A8%E0%A5%A4-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6-192x254.jpg",
+        "authorName": "Madge Carney",
+        "publisher": "TASMANIA",
+        "bookDetails": "Ex velit proident deserunt dolore dolore. Ea anim ad magna ullamco. Proident ipsum amet adipisicing exercitation dolor cillum exercitation nisi minim consequat commodo nisi ut ipsum. Ipsum non sunt consectetur officia velit ea eiusmod eu ut magna. Proident excepteur proident quis eu adipisicing dolor. Commodo reprehenderit est laborum do ut dolore laborum Lorem. Consequat aliquip sint dolore minim commodo aute labore exercitation dolor mollit quis anim.\r\n",
+        "publishedDate": "2022-06-03T12:37:21 -06:00"
+    },
+    {
+        "index": 6,
+        "inStoke": true,
+        "price": "$831.53",
+        "picture": "https://wafilife-media.wafilife.com/uploads/2022/10/%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%87_%E0%A6%8F%E0%A6%97%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87_%E0%A6%95%E0%A6%AD%E0%A6%BE%E0%A6%B0-192x254.png",
+        "authorName": "Vera Gay",
+        "publisher": "PASTURIA",
+        "bookDetails": "Exercitation laborum non tempor nulla dolor. Nostrud reprehenderit eu exercitation deserunt enim ipsum sit voluptate excepteur dolor. Pariatur irure enim veniam eu consequat minim deserunt commodo anim ut do ullamco deserunt magna.\r\n",
+        "publishedDate": "2014-10-13T03:59:10 -06:00"
+    },
+    {
+        "index": 7,
+        "inStoke": true,
+        "price": "$862.05",
+        "picture": "https://wafilife-media.wafilife.com/uploads/2022/08/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A6-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA-%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA-%E0%A6%9A%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE-192x254.jpg",
+        "authorName": "Julianne Kane",
+        "publisher": "ZOID",
+        "bookDetails": "Duis cupidatat aute duis cupidatat. Sint elit ullamco ex qui. Laborum fugiat velit deserunt ipsum mollit occaecat sit mollit.\r\n",
+        "publishedDate": "2021-08-08T07:22:31 -06:00"
+    },
+    {
+        "index": 8,
+        "inStoke": true,
+        "price": "$381.55",
+        "picture": "https://wafilife-media.wafilife.com/uploads/2022/06/muslimah-192x254.png",
+        "authorName": "Amie Flores",
+        "publisher": "OPTICOM",
+        "bookDetails": "Do nulla aliquip esse commodo ad. Sit duis dolore nulla ipsum proident laborum pariatur amet ut proident velit fugiat velit consectetur. Consectetur enim pariatur consectetur reprehenderit aliquip anim tempor eu esse deserunt aute enim.\r\n",
+        "publishedDate": "2017-10-02T12:26:46 -06:00"
+    }
+]
