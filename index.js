@@ -23,6 +23,12 @@ async function run() {
             res.send(books);
         });
 
+        app.get('/allbooks', async (req, res) => {
+            const query = {};
+            const books = await bookStore.find(query).toArray();
+            res.send(books);
+        });
+
 
 
     }
