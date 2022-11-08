@@ -14,22 +14,24 @@ app.use(express.json());
 const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.qogqlqn.mongodb.net/?retryWrites=true&w=majority`;
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
 const bookStore = client.db("bookStore").collection("books");
+const bookReviews = client.db("bookReviews").collection("reviews");
 
 
 async function run() {
     try {
+        //api for home section books
         app.get('/homebooks', async (req, res) => {
             const query = {};
             const books = await bookStore.find(query).limit(3).toArray();
             res.send(books);
         });
-
+        //api for all books
         app.get('/allbooks', async (req, res) => {
             const query = {};
             const books = await bookStore.find(query).toArray();
             res.send(books);
         });
-
+        //api for individual book
         app.get('/book/:id', async (req, res) => {
             const id = req.params.id;
             // console.log(id)
@@ -37,7 +39,15 @@ async function run() {
             const book = await bookStore.find(query).toArray();
             res.send(book);
         })
-
+        //api for prilimenary reviews
+        app.get('/reviews/:id', async (req, res) => {
+            const id = req.params.id;
+            // console.log(typeof (id))
+            const query = { bookId: id };
+            const reviews = await bookReviews.find(query).toArray();
+            // console.log(reviews)
+            res.send(reviews);
+        })
 
 
     }
