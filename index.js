@@ -55,6 +55,14 @@ async function run() {
             const result = await bookReviews.insertOne(newReview);
             res.send(result);
         })
+        //api for deleting owner review
+        app.delete('/reviews/:id', async (req, res) => {
+            const id = req.params.id;
+            const query = { _id: ObjectID(id) };
+            // console.log(newReview)
+            const result = await bookReviews.deleteOne(query);
+            res.send(result);
+        })
         //api for showing owner reviews
         app.get('/myreviews', async (req, res) => {
             const email = req.query.email;
