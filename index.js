@@ -55,6 +55,14 @@ async function run() {
             const result = await bookReviews.insertOne(newReview);
             res.send(result);
         })
+        //api for showing owner reviews
+        app.get('/myreviews', async (req, res) => {
+            const email = req.query.email;
+            // console.log(email)
+            const query = { reviewerEmail: email }
+            const myReview = await bookReviews.find(query).toArray();
+            res.send(myReview)
+        })
 
 
     }
