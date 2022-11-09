@@ -48,6 +48,12 @@ async function run() {
             // console.log(reviews)
             res.send(reviews);
         })
+        //api for inserting book details
+        app.get('/addbooks', async (req, res) => {
+            const newBook = req.body;
+            const result = await bookStore.insertOne(newBook);
+            res.send(result);
+        })
         //api for inserting new review
         app.post('/reviews/:id', async (req, res) => {
             const newReview = req.body;
